@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1677550278 source:c:\users\admin\documents\tadfila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1677549410 c:\users\admin\documents\tadfila\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1677544554 source:c:\users\admin\documents\tadfila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1677545345 c:\users\admin\documents\tadfila\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1677549862 source:c:\users\admin\documents\tadfila\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
